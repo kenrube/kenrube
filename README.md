@@ -12,7 +12,3 @@
   - Main server (Perl, JS/HTML, MySQL; 20yo codebase) maintaining, bug fixes, new code etc. [Development digest](https://fantlab.ru/user58246/blog/tag/Development) (in Russian)
 - [Mosaic](https://github.com/kenrube/Mosaic) - very simple replica of [Prisma](https://play.google.com/store/apps/details?id=com.neuralprisma) (w/o neural networks, shaders only)
 - For [Prisma](https://prisma-ai.com/): participating in [Lensa](https://play.google.com/store/apps/details?id=com.lensa.app)'s [AI avatars](https://www.nytimes.com/2022/12/07/style/lensa-ai-selfies.html) project, full rework of the in-app editor and a lot of other stuff.
-
----
-
-Contacts: [LinkedIn](https://www.linkedin.com/in/kenrube/).
