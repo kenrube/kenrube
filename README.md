@@ -1,6 +1,6 @@
 # Some of my works
 - [Esopoly](https://github.com/kenrube/Esopoly) - funny polyglot in 7 esoteric langs, incl. [Malbolge](https://en.wikipedia.org/wiki/Malbolge)
-- [Traffic rules learning app](https://play.google.com/store/apps/details?id=ru.drom.pdd.android.app) for [Drom](https://www.drom.ru/), from scratch. Among other things, functionality for [all-country contest](https://news.drom.ru/Drom-ru-56977.html)
+- [Traffic rules learning app](https://play.google.com/store/apps/details?id=ru.drom.pdd.android.app) for [Drom](https://www.drom.ru/), from scratch. Among other things, functionality for [country-wide contest](https://news.drom.ru/Drom-ru-56977.html)
 - For [NTV Broadcasting Company](https://www.ntv.ru/):
   - Full rework (with custom design) of TV app, [v2.+](https://apkpure.net/ru/нтв-на-androidtv-тв-и-новости/ru.ntv.client.tv)
   - [App](https://apkpure.net/ru/25-лет-нтв-история-россии-мира-нас/ru.ntv.client.the25years) for [anniversary project](https://25.ntv.ru/), from scratch. In main industry [contest](https://web.archive.org/web/20190601223151/http:/www.mediabrand.me/news/pobediteli-sedmogo-konkursa-mediabrend) it took 3rd place
